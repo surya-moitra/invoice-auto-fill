@@ -1,6 +1,6 @@
 # invoice-auto-fill
-Computer Vision(Faster R-CNN) solution to extract necessary information from an invoice and fill required data. Example shown with Indian Broadband Invoice
 
+Computer Vision(Faster R-CNN) solution to extract necessary information from an invoice and fill required data. 
 Training is done on Broadband bills of Indian Vendors namely Airtel and ACT (came out from Empathy research)
 We can extend it to other operators like Hathway, Tatasky broadband and similar operators.
 
